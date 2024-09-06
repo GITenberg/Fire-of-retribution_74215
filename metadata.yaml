@@ -1,0 +1,37 @@
+_repo: Fire-of-retribution_74215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Donovan, Laurence
+    aliases:
+    - Donovan, Lawrence
+    - Goodrich, Clifford
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '57394'
+    url: http://www.gutenberg.org/2009/agents/57394
+    wikipedia: https://en.wikipedia.org/wiki/Lawrence_Donovan
+description: ''
+gutenberg_issued: '2024-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74215'
+language: en
+pgterms:marc905: 20240802003827donovan
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Frank A. Munsey Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Logging -- Fiction'
+- !lcsh 'Air pilots -- Fiction'
+- !lcsh 'Parachuting -- Fiction'
+- !lcsh 'Forest fires -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Fire of retribution
+url: http://www.gutenberg.org/ebooks/74215
